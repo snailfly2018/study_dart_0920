@@ -111,4 +111,6 @@ void main(List<String> arguments) {
   } catch (e) {
     print('error:at least on argument is not an integer!');
   }
+
+  main2();
 }
